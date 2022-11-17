@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> SEJA MUITO BEM-VINDO! 👋 </h1>
+<h1> SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i> </h1>
 
 
-<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-javascript-plain colored"> as </i>
 
 <i class="devicon-linkedin-plain-wordmark colored"></i>
 <i class="devicon-mysql-plain colored"></i>
