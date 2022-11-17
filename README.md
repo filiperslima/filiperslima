@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h1> SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i> </h1>
 
 
-<i class="devicon-javascript-plain colored"> as </i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+          
 
 <i class="devicon-linkedin-plain-wordmark colored"></i>
 <i class="devicon-mysql-plain colored"></i>
