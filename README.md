@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/anuraghazra/github-readme-stats)
