@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **filiperslima/filiperslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> SEJA MUITO BEM-VINDO/A/E! </h1>
+<h1> SEJA MUITO BEM-VINDO! 👋 </h1>
+
+
+<i class="devicon-javascript-plain colored"></i>
+
+<i class="devicon-linkedin-plain-wordmark colored"></i>
+<i class="devicon-mysql-plain colored"></i>
+
+<i class="devicon-html5-plain colored"></i>
+
+<i class="devicon-react-original colored"></i>
+<i class="devicon-css3-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-amazonwebservices-original colored"></i>
