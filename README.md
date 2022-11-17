@@ -32,5 +32,7 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark)"
 />
   </picture>
-[![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+ 
+ 
+ [![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
 
