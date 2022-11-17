@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
 
 <i class="devicon-linkedin-plain-wordmark colored"></i>
 <i class="devicon-mysql-plain colored"></i>
