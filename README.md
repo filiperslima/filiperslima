@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 
 [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
  
-## Sinta-se à vontade para entrar em contato comigo por uma de minhas redes sociais
+## Redes sociais
+<p align="center">Sinta-se à vontade para entrar em contato comigo por uma de minhas redes sociais 😊</p>
 
 <a href="https://www.linkedin.com/in/filipe-rodrigues-7433a01b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/filiperslima/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
