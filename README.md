@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>Em front-end, tenho conhecimentos de HTML5, CSS3 e habilidades avançadas em Javascript para gerar interatividade e comunicação com APIs. Enquanto que sobre back-end, estudo Spring Framework e utilizo bancos SQL (MySQL) e NoSQL (MongoDB) para armazenar e manipular dados com segurança e eficiência. Também estou em processo de aprendizagem em relação à Amazon Web Services (AWS) e Docker, buscando habilidades para contribuir com a criação de aplicações escaláveis e altamente disponíveis. Recentemente tenho estudado React e React-Bootstrap para criar interfaces de usuário e aplicativos web dinâmicos de maneira ágil. Cada projeto aqui reflete os diferentes níveis atingidos nessa minha jornada de programação. </p>
 
-<p textAlign="center">Estou ansioso para ver o que podemos criar juntos!</p>
+<p text-align="center">Estou ansioso para ver o que podemos criar juntos!</p>
 
 
 
