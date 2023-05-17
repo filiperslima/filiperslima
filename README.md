@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 />
   </picture>
  
- [![Filiperslima's GitHub stats](	https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+ [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+ 
  
  
  [![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
