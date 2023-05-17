@@ -22,13 +22,6 @@ Here are some ideas to get you started:
 <p>Estou ansioso para ver o que podemos criar juntos!</p>
 
 ## Skills
-
-
-
-
-
-
-
 <ul>
 <li>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -48,7 +41,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </li>
 </ul>
-
+## Alguns detalhes sobre mim
+<ul>
+ <li>Atualmente estudante de tecnologias de desenvolvimento na Digital House</li>
+ <li>Tecnologia sempre foi meu forte</li>
+ <li>Não suporto deixar trabalho sem conclusões (enrolo, mas um dia termino)</li>
+</ul>
  [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
   
  [![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
