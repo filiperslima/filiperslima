@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Alguns detalhes sobre mim
 
-<ul list-style="none">
+<ul list-style-type="none">
  <li>Atualmente estudante de tecnologias de desenvolvimento na Digital House (...tecnologia sempre foi meu forte)</li>
  <li>Não suporto deixar trabalhos/tarefas sem conclusões (...enrolo os que não possuem prazos, mas um dia termino-os, como esse Readme aqui)</li>
  <li>Pegando a deixa com o mencionado acima, trabalho melhor com prazos</li>
