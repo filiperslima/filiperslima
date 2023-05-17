@@ -48,7 +48,8 @@ Here are some ideas to get you started:
  <li>Atualmente estudante de tecnologias de desenvolvimento na Digital House (...tecnologia sempre foi meu forte)</li>
  <li>Não suporto deixar trabalhos/tarefas sem conclusões (...enrolo os que não possuem prazos, mas um dia termino-os, como esse Readme aqui)</li>
  <li>Pegando a deixa com o mencionado acima, trabalho melhor com prazos</li>
- <li> Por fim, quero abraçar o mundo e, por vezes, com a perna. Então me verás correndo atrás de muita coisa ao mesmo tempo (...e darei o meu melhor nisso)</li>
+ <li>Em constante aprofundamento nas tecnologias acima</li>
+ <li>Por fim, quero abraçar o mundo e, por vezes, com a perna. Então me verás correndo atrás de muita coisa ao mesmo tempo (...e darei o meu melhor nisso)</li>
 </ul>
 
  [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
