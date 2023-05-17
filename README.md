@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 </li>
 </ul>
 
-## Alguns detalhes sobre mim
+## Alguns detalhes sobre mim 😉
+
 
 <ul align="justify" >
  <li>Atualmente estudante de tecnologias de desenvolvimento na Digital House (<i>...tecnologia sempre foi meu forte</i>)</li>
@@ -52,10 +53,20 @@ Here are some ideas to get you started:
  <li>Por fim, quero abraçar o mundo e, por vezes, com a perna. Então me verás correndo atrás de muita coisa ao mesmo tempo (<i>...e darei o meu melhor nisso</i>)</li>
 </ul>
 
-## Algumas estatísticas atuais (<i>... isso vai melhorar, prometo! 😁</i>)
+## Algumas estatísticas atuais (<i size="5px">... isso é só o começo e vai melhorar, prometo! 😁</i>)
 
 [![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
 
 
 [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
  
+## Sinta-se à vontade para entrar em contato comigo por uma de minhas redes sociais
+
+<a href="https://www.linkedin.com/in/filipe-rodrigues-7433a01b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/filiperslima/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
+
+
+
+
