@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="width: 90rem"> SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i> </h1>
-Seja muito Bem-vindo/a ao meu portfólio!
-Apaixonado por tecnologia, estou sempre aprendendo novas ferramentas para aprimorar minhas habilidades como desenvolvedor e aqui você encontrará alguns de meus projetos mais recentes criados nessa jornada, cada um deles construído com uma combinação de ferramentas que me permitiram criar soluções incríveis, mas antes, saiba um pouco mais sobre meus interesses na tecnologia.
-Em conhecimentos de front-end, adquiri conhecimentos de HTML5 e CSS3, bases de qualquer projeto web responsivo e visualmente atraentes. Junto a isso, possuo habilidades avançadas em Javascript, que me permite gerar interatividade, dar vida aos meus projetos e possibilitar a comunicação com as mais diversas APIs.
-Também me interessei em obter conhecimentos back-end e por isso estudei Spring Framework e o utilizo em meus projetos na criação de APIs próprias, contando com o gerenciamento de bancos SQL (MySQL) e NoSQL (MongoDB) para o armazenamento e manipulação de dados com segurança e eficiência.
-No ramo de infraestrutura, estou em processo de aprendizagem em relação à Amazon Web Services (AWS) e seus serviços, incluindo CloudFormation, S3 Bucket, EC2 e outros, buscando habilidades para contribuir com a criação e gerenciamento de aplicações escaláveis e altamente disponíveis. Além disso, tenho habilidades em Docker, o que me possibilita criar ambientes de desenvolvimento padronizados e portáteis, fundamental para garantir a qualidade e consistência em diferentes ambientes de desenvolvimento. 
-Por fim, estou sempre explorando novas tecnologias, e recentemente tenho focado no estudo conjunto do React e React-Bootstrap, bibliotecas JavaScript para criação de interfaces de usuário, possibilitando cirar  aplicativos web dinâmicos e escaláveis de maneira ágil através da componentização e estilização disponíveis por tais bibliotecas.
-Em suma, estou animado em finalmente poder compartilhar meu portfólio com você. Cada projeto aqui foi cuidadosamente criado com uma combinação de ferramentas e refletem os diferentes níveis atingidos nessa minha jornada da programação. Estou ansioso para ver o que podemos criar juntos!
+# SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i>
+<p> Bem-vindo/a ao meu portfólio! Como desenvolvedor, estou sempre aprendendo novas ferramentas para aprimorar minhas habilidades. Aqui você encontrará alguns de meus projetos mais recentes, construídos com uma combinação de ferramentas que me permitiram criar soluções incríveis.</p>
 
+<p>Em front-end, tenho conhecimentos de HTML5, CSS3 e habilidades avançadas em Javascript para gerar interatividade e comunicação com APIs. Enquanto que sobre back-end, estudo Spring Framework e utilizo bancos SQL (MySQL) e NoSQL (MongoDB) para armazenar e manipular dados com segurança e eficiência. Também estou em processo de aprendizagem em relação à Amazon Web Services (AWS) e Docker, buscando habilidades para contribuir com a criação de aplicações escaláveis e altamente disponíveis. Recentemente tenho estudado React e React-Bootstrap para criar interfaces de usuário e aplicativos web dinâmicos de maneira ágil. Cada projeto aqui reflete os diferentes níveis atingidos nessa minha jornada de programação. </p>
+
+## Estou ansioso para ver o que podemos criar juntos!
 
 
 
