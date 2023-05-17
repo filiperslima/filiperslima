@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </li>
 </ul>
+
 ## Alguns detalhes sobre mim
+
 <ul>
  <li>Atualmente estudante de tecnologias de desenvolvimento na Digital House</li>
  <li>Tecnologia sempre foi meu forte</li>
