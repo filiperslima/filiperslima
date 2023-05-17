@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="width: '50rem'"> SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i> </h1>
+<h1 style="width: '90rem'"> SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i> </h1>
 Bem-vindo ao meu portfólio! Eu sou apaixonado por tecnologia e estou sempre aprendendo novas ferramentas para aprimorar minhas habilidades como desenvolvedor. Aqui você encontrará uma seleção dos meus projetos mais recentes, cada um deles construído com uma combinação de ferramentas que me permitem criar soluções incríveis.
 
 Começando com a infraestrutura, eu tenho uma base sólida em Amazon Web Services (AWS). Com essa plataforma, posso criar e gerenciar aplicativos escaláveis e altamente disponíveis. Também tenho conhecimento em Docker, uma ferramenta que me permite criar ambientes de desenvolvimento padronizados e portáteis.
