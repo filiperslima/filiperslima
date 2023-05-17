@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <p>Em front-end, tenho conhecimentos de HTML5, CSS3 e habilidades avançadas em Javascript para gerar interatividade e comunicação com APIs. Enquanto que sobre back-end, estudo Spring Framework e utilizo bancos SQL (MySQL) e NoSQL (MongoDB) para armazenar e manipular dados com segurança e eficiência. Também estou em processo de aprendizagem em relação à Amazon Web Services (AWS) e Docker, buscando habilidades para contribuir com a criação de aplicações escaláveis e altamente disponíveis. Recentemente tenho estudado React e React-Bootstrap para criar interfaces de usuário e aplicativos web dinâmicos de maneira ágil. Cada projeto aqui reflete os diferentes níveis atingidos nessa minha jornada de programação. </p>
 
-<center>Estou ansioso para ver o que podemos criar juntos!</center>
-<div style="text-align:center">Esse texto vai ficar centralizado.
-<p>Este parágrafo também.</p></div>
+<p>Estou ansioso para ver o que podemos criar juntos!</p>
 
 
 
@@ -29,13 +27,13 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/>
 
 <picture>
 <source 
