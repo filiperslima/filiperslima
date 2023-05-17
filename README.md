@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <p align="center">SEJA MUITO BEM-VINDO! 👋 <i class="devicon-linkedin-plain-wordmark colored"></i></p>
-<p> Bem-vindo/a ao meu portfólio! Como desenvolvedor, estou sempre aprendendo novas ferramentas para aprimorar minhas habilidades. Aqui você encontrará alguns de meus projetos mais recentes, construídos com uma combinação de ferramentas que me permitiram criar soluções incríveis.</p>
+<p align="justify"> Bem-vindo/a ao meu portfólio! Como desenvolvedor, estou sempre aprendendo novas ferramentas para aprimorar minhas habilidades. Aqui você encontrará alguns de meus projetos mais recentes, construídos com uma combinação de ferramentas que me permitiram criar soluções incríveis.</p>
 
 <p align="justify">Em front-end, tenho conhecimentos de HTML5, CSS3 e habilidades avançadas em Javascript para gerar interatividade e comunicação com APIs. Enquanto que sobre back-end, estudo Spring Framework e utilizo bancos SQL (MySQL) e NoSQL (MongoDB) para armazenar e manipular dados com segurança e eficiência. Também estou em processo de aprendizagem em relação à Amazon Web Services (AWS), Docker e Terraform, buscando habilidades para contribuir com a criação de aplicações escaláveis e altamente disponíveis. Recentemente tenho estudado React e React-Bootstrap para criar interfaces de usuário e aplicativos web dinâmicos de maneira ágil. Cada projeto aqui reflete os diferentes níveis atingidos nessa minha jornada de programação. </p>
 
