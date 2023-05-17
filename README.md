@@ -52,8 +52,10 @@ Here are some ideas to get you started:
  <li>Por fim, quero abraçar o mundo e, por vezes, com a perna. Então me verás correndo atrás de muita coisa ao mesmo tempo (<i>...e darei o meu melhor nisso</i>)</li>
 </ul>
 
-  
- [![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+## Algumas de minhas estatísticas atuais
 
-</br>
+[![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+
+
 [![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
+ 
