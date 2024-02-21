@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p>Estou ansioso para ver o que podemos criar juntos!</p>
 
-## Skills de domínio e interesse
+## Skills de domínio e interesses
 <ul>
 <li>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
