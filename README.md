@@ -57,12 +57,7 @@ Here are some ideas to get you started:
  <li>Por fim, quero abraçar o mundo e, por vezes, com a perna. Então me verás correndo atrás de muita coisa ao mesmo tempo (<i>...e darei o meu melhor nisso</i>)</li>
 </ul>
 
-## Algumas estatísticas atuais (<i size="5px">... isso é só o começo e vai melhorar, prometo! 😁</i>)
 
-[![Filiperslima's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
-
-
-[![Filiperslima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filiperslima)](https://github.com/filiperslima/github-readme-stats)
  
 ## Redes sociais
 <h4 align="center">Sinta-se à vontade para entrar em contato comigo por uma de minhas redes sociais 😊</h4>
